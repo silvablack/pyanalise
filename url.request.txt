@@ -1,0 +1,1 @@
+http://confiraloterias.com.br/api0/json.php?loteria=megasena&token=ZoCnqTjAoMNJLhk&concurso=1&lista=true
